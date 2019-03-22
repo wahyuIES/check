@@ -7,9 +7,9 @@ echo "\n\e[0;31m] {=>} ...{×} BIN check-\e[0m \r\n";
 echo "\n\e[0;31m] {=>} CODER{×} : MR.W4HYU \e[0m \r\n";
 echo "\n\e[0;31m] {=>} Team {×}  : INDONESIAN ERROR SYSTEM \e[0m \r\n";
 echo "\e[0;35m] kontak Me wahyu.st021@gmail.com\e[0m \r\n";
-echo "\e[0;35m] Git Hub https://github.com/InYourG00D1\e[0m \r\n";
+echo "\e[0;35m] Git Hub https://github.com/wahyuIES\e[0m \r\n";
 echo "\n\e[1;32m]========================================================\e[0m \r\n";
-echo "\n[+]YourBIN= ";
+echo "\n[+]BIN lu=> ";
 $six = trim(fgets(STDIN, 1024));
   // Insert CURL
   function curl($url, $var = null) {
